@@ -16,5 +16,3 @@ Important to know:
   * sub-Saharan 
   * Africa and in 
   * India.
-  
-  ![alt tag](ex1/images/lion.jpg)
