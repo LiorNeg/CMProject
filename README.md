@@ -16,4 +16,4 @@ https://en.wikipedia.org/wiki/Lion
     * Africa
     * India
     
-     ![alt tag] (https://github.com/LiorNeg/ex1/blob/master/images/lion.jpg)
+     ![alt tag](https://github.com/LiorNeg/ex1/blob/master/images/lion.jpg)
