@@ -10,7 +10,8 @@ https://en.wikipedia.org/wiki/Lion
        It was one of the species originally described by Linnaeus, who gave it
        the name Felis leo, in his eighteenth-century work.
  ## Lions are most likely to be found in:
-*sub-Saharan
-*Africa
-*India
+ *sub-saharn
+ *India
+ *Africa
+
 ![alt tag](https://github.com/LiorNeg/ex1/blob/master/images/lion.jpg)
