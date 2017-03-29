@@ -17,4 +17,4 @@ Important to know:
   * Africa and in 
   * India.
   
-   ex1/images/lion.jpg 
+  ![alt tag](ex1/images/lion.jpg)
