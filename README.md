@@ -1,6 +1,4 @@
-# About the animal:Lion
-
-## Info source: https://en.wikipedia.org/wiki/Lion
+# About the animal:Lion https://en.wikipedia.org/wiki/Lion
 
 ## Important to know:
     1. The lion (Panthera leo) is one of the big cats in the genus Panthera and a member of the family Felidae.
@@ -13,6 +11,6 @@
        the name Felis leo, in his eighteenth-century work.
      
  ## Lions are most likely to be found in:
-      * sub-Saharan 
-      * Africa and in 
-      * India.
+     Markup: * sub-Saharan 
+             * Africa and in
+             * India.
