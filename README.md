@@ -19,4 +19,5 @@ https://en.wikipedia.org/wiki/Lion
 זנים | species
 --- | -------
    אריה ברברי | barbary lion
+    אריה אסיאתי|asiatic lion
 
