@@ -19,3 +19,10 @@ https://en.wikipedia.org/wiki/Lion
 species | זנים
 ------- | ---
 barbary lion | אריה ברברי
+asiatic lion | אריה אסיאתי
+west african lion | אריה מערב אפריקאי
+masai lion | אריה מסאי
+congo lion | אריה קונגולזי
+southwest african lion | אריה דרום-אפריקאי
+transvaal lion | אריה טרנסוויליאני
+ethiopian lion | אריה אתיופי
