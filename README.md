@@ -15,3 +15,5 @@ https://en.wikipedia.org/wiki/Lion
     * sub-Saharan
     * Africa
     * India
+    
+     ![picture alt](https://github.com/LiorNeg/ex1/blob/master/images/lion.jpg)
