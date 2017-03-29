@@ -11,6 +11,6 @@
        the name Felis leo, in his eighteenth-century work.
      
  ## Lions are most likely to be found in:
-     Markup : * sub-Saharan 
-              * Africa and in
-              * India.
+ Markup : * sub-Saharan 
+          * Africa and in
+          * India.
