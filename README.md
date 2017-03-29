@@ -16,8 +16,6 @@ https://en.wikipedia.org/wiki/Lion
 
 ![alt tag](https://github.com/LiorNeg/ex1/blob/master/images/lion.jpg)
 
-זנים | species
---- | -------
-   אריה ברברי | barbary lion
-    אריה אסיאתי | asiatic lion
-
+species | זנים
+------- | ---
+barbary lion | אריה ברברי
