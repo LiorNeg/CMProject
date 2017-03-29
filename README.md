@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Lion
 
 ![alt tag](https://github.com/LiorNeg/ex1/blob/master/images/lion.jpg)
 
-זנים | spicies
+זנים | species
 --- | -------
-    |
+   אריה ברברי | barbary lion
 
